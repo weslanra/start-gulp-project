@@ -1,0 +1,23 @@
+{
+  "name": "8ukhv2-tela-contrato",
+  "version": "2.0.0",
+  "description": "Telas de contrato do fandi",
+  "main": "index.js",
+  "author": "AVONALE",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.5.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-babel-minify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-run-command": "^0.0.10",
+    "gulp-sass": "^4.1.0",
+    "gulp-util": "^3.0.8"
+  }
+}
